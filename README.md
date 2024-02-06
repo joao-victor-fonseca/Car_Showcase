@@ -14,7 +14,7 @@
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,github,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,react,tailwind,next,github,git&theme=dark" />
   </a>
  
 </div>
